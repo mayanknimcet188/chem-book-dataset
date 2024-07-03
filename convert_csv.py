@@ -1,7 +1,7 @@
 import csv
 
 # Define the input and output file names
-input_file = 'training_dataset.csv'
+input_file = 'training_dataset_short.csv'
 output_file = 'output.txt'
 
 # Open the input CSV file for reading
