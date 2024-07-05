@@ -1,0 +1,510 @@
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is unique about hydrogen? [/INST] It’s the most abundant element in the universe, making up over 75% of all matter. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is the main component of Jupiter? [/INST] Hydrogen is the main component of Jupiter and the other gas giant planets. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ Can hydrogen be used as fuel? [/INST] Yes, hydrogen is used as rocket fuel. It can also power fuel cells to generate electricity. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is mercury’s atomic number? [/INST] The atomic number of mercury is 80 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is mercury? [/INST] Mercury is a silver-colored metal that is liquid at room temperature. It has an atomic number of 80 on the periodic table. It is toxic to humans. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is carbon's atomic number? [/INST] Carbon's atomic number is 6. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What group is carbon in? [/INST] Carbon is in group 14. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What period is carbon in? [/INST] Carbon is in period 2. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is carbon's atomic weight? [/INST] Carbon's atomic weight is 12.01. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is carbon's state at room temperature? [/INST] Carbon's state is solid at room temperature. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ How many protons does carbon have? [/INST] Carbon has 6 protons. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ How many neutrons does carbon usually have? [/INST] Carbon usually has 6 neutrons. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ How many electrons does carbon usually have? [/INST] Carbon usually has 6 electrons. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is carbon's symbol? [/INST] Carbon's symbol is C. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ Where is carbon most abundant? [/INST] Carbon is most abundant in rocks, such as those in Earth's crust. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What column is carbon in? [/INST] Carbon is in column 14. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What row is carbon in? [/INST] Carbon is in row 2. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is carbon's melting point? [/INST] Carbon's melting point is 3,550 degrees Celsius. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is carbon's boiling point? [/INST] Carbon's boiling point is 4,827 degrees Celsius. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is carbon's radius? [/INST] Carbon's radius is 67 picometers. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is unique about carbon? [/INST] Carbon is essential to life as we know it because it readily forms many bonds with a variety of elements. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is silicon's atomic number? [/INST] Silicon's atomic number is 14. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What group is silicon in? [/INST] Silicon is in group 14. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What period is silicon in? [/INST] Silicon is in period 3. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is silicon's atomic weight? [/INST] Silicon's atomic weight is 28.09. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is silicon's state at room temperature? [/INST] Silicon's state is solid at room temperature. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ How many protons does silicon have? [/INST] Silicon has 14 protons. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ How many neutrons does silicon usually have? [/INST] Silicon usually has 14 neutrons. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ How many electrons does silicon usually have? [/INST] Silicon usually has 14 electrons. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is silicon's symbol? [/INST] Silicon's symbol is S. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ Where is silicon most abundant? [/INST] Silicon, like many metals, is common in rocks where it forms a component of minerals. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What column is silicon in? [/INST] Silicon is in column 14. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What row is silicon in? [/INST] Silicon is in row 3. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is silicon's melting point? [/INST] Silicon's melting point is 1,410 degrees Celsius. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is silicon's boiling point? [/INST] Silicon's boiling point is 3,265 degrees Celsius. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is silicon's radius? [/INST] Silicon's radius is 111 picometers. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is unique about silicon? [/INST] Silicon is used to make the transistors at the heart of all computers. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is argon's atomic number? [/INST] Argon's atomic number is 18. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What group is argon in? [/INST] Argon is in group 18. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What period is argon in? [/INST] Argon is in period 3. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is argon's atomic weight? [/INST] Argon's atomic weight is 39.95. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is argon's state at room temperature? [/INST] Argon's state is gas at room temperature. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ How many protons does argon have? [/INST] Argon has 18 protons. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ How many neutrons does argon usually have? [/INST] Argon usually has 18 neutrons. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ How many electrons does argon usually have? [/INST] Argon usually has 18 electrons. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is argon's symbol? [/INST] Argon's symbol is Ar. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ Where is argon most abundant? [/INST] Argon is the third most abundant gas in Earth's atmosphere. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What column is argon in? [/INST] Argon is in column 18. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What row is argon in? [/INST] Argon is in row 3. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is argon's melting point? [/INST] Argon's melting point is -189.2 degrees Celsius. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is argon's boiling point? [/INST] Argon's boiling point is -185.7 degrees Celsius. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is argon's radius? [/INST] Argon's radius is 71 picometers. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is unique about argon? [/INST] Argon is a noble gas, meaning that it is much less reactive than most other elements. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is calcium's atomic number? [/INST] Calcium's atomic number is 20. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What group is calcium in? [/INST] Calcium is in group 2. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What period is calcium in? [/INST] Calcium is in period 4. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is calcium's atomic weight? [/INST] Calcium's atomic weight is 40.01. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is calcium's state at room temperature? [/INST] Calcium's state is solid at room temperature. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ How many protons does calcium have? [/INST] Calcium has 20 protons. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ How many neutrons does calcium usually have? [/INST] Calcium usually has 20 neutrons. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ How many electrons does calcium usually have? [/INST] Calcium usually has 20 electrons. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is calcium's symbol? [/INST] Calcium's symbol is C. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ Where is calcium most abundant? [/INST] Calcium, like many metals, is common in rocks where it forms a component of minerals. It is the third most common metal in Earth's crust. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What column is calcium in? [/INST] Calcium is in column 2. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What row is calcium in? [/INST] Calcium is in row 4. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is calcium's melting point? [/INST] Calcium's melting point is 842 degrees Celsius. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is calcium's boiling point? [/INST] Calcium's boiling point is 1,484 degrees Celsius. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is calcium's radius? [/INST] Calcium's radius is 194 picometers. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is unique about calcium? [/INST] Calcium is common in the human body and it is very important for many body functions. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is iron's atomic number? [/INST] Iron's atomic number is 26. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What group is iron in? [/INST] Iron is in group 8. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What period is iron in? [/INST] Iron is in period 4. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is iron's atomic weight? [/INST] Iron's atomic weight is 55.85. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is iron's state at room temperature? [/INST] Iron's state is solid at room temperature. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ How many protons does iron have? [/INST] Iron has 26 protons. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ How many neutrons does iron usually have? [/INST] Iron usually has 26 neutrons. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ How many electrons does iron usually have? [/INST] Iron usually has 26 electrons. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is iron's symbol? [/INST] Iron's symbol is Fe. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ Where is iron most abundant? [/INST] Iron, like many metals, is common in rocks where it forms a component of minerals. In Earth, it makes up most of the core. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What column is iron in? [/INST] Iron is in column 8. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What row is iron in? [/INST] Iron is in row 4. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is iron's melting point? [/INST] Iron's melting point is 1,538 degrees Celsius. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is iron's boiling point? [/INST] Iron's boiling point is 2,861 degrees Celsius. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is iron's radius? [/INST] Iron's radius is 156 picometers. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is unique about iron? [/INST] Iron is the last element that stars fuse in their cores before going supernova. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is silver's atomic number? [/INST] Silver's atomic number is 47. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What group is silver in? [/INST] Silver is in group 11. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What period is silver in? [/INST] Silver is in period 5. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is silver's atomic weight? [/INST] Silver's atomic weight is 107.87. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is silver's state at room temperature? [/INST] Silver's state is solid at room temperature. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ How many protons does silver have? [/INST] Silver has 47 protons. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ How many neutrons does silver usually have? [/INST] Silver usually has 47 neutrons. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ How many electrons does silver usually have? [/INST] Silver usually has 47 electrons. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is silver's symbol? [/INST] Silver's symbol is Ag. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ Where is silver most abundant? [/INST] Silver, like many metals, is common in rocks where it forms a component of minerals. On Earth, it is considered a precious metal. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What column is silver in? [/INST] Silver is in column 11. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What row is silver in? [/INST] Silver is in row 5. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is silver's melting point? [/INST] Silver's melting point is 961.78 degrees Celsius. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is silver's boiling point? [/INST] Silver's boiling point is 2,162 degrees Celsius. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is silver's radius? [/INST] Silver's radius is 165 picometers. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is unique about silver? [/INST] Silver has the highest electrical and thermal conductivity as well as reflectivity of any element. 
+<SFT><s>[INST] <<SYS>
+ You are a high school science teacher. Explain concepts in very simple English. 
+<</SYS>>
+
+ What is cesium's atomic number? [/INST] Cesium's atomic number is 55. 
